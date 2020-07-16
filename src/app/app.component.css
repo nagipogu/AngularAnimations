@@ -1,0 +1,22 @@
+.notes-list {
+    margin-top: 35px;
+    margin-bottom: 70px;
+}
+
+li {
+    display: block;
+    margin-bottom: 25px;
+    background-color: aquamarine;
+    border: 1px solid aqua;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.floating-add-button {
+    bottom: 0;
+    width: 200px;
+    border-radius: 0;
+    height: 68px;
+    font-size: 24px;
+}
